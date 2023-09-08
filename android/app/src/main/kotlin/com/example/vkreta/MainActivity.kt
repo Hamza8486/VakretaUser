@@ -1,4 +1,4 @@
-package com.example.vkreta
+package com.hamzadev.vkreta
 
 import io.flutter.embedding.android.FlutterActivity
 

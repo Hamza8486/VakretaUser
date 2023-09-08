@@ -1,57 +1,42 @@
 {
   "project_info": {
-    "project_number": "361967937864",
-    "project_id": "vkreta-382ba",
-    "storage_bucket": "vkreta-382ba.appspot.com"
+    "project_number": "1049135460346",
+    "project_id": "vakretauser",
+    "storage_bucket": "vakretauser.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:361967937864:android:f2658f0a2a32186fe46b7d",
+        "mobilesdk_app_id": "1:1049135460346:android:38bde16ea9d74523a1fe43",
         "android_client_info": {
-          "package_name": "com.example.vkreta"
+          "package_name": "com.hamzadev.vkreta"
         }
       },
       "oauth_client": [
         {
-          "client_id": "361967937864-ia19usgovuhot47rpdoggbtaliva1dat.apps.googleusercontent.com",
+          "client_id": "1049135460346-qfj5a31nsof58jkqisu2j9f5n39he8tq.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.vkreta",
-            "certificate_hash": "992dce633313db1d129e37204b29884b309727b3"
+            "package_name": "com.hamzadev.vkreta",
+            "certificate_hash": "371866fd1bebf9fafa2146156a29441fa342dd28"
           }
         },
         {
-          "client_id": "361967937864-mvbn0337drbhbifpo6gnjp1jalnsgvaq.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.vkreta",
-            "certificate_hash": "3faf37bd85e289e5c3a3bd0d1b607d093c0a09ba"
-          }
-        },
-        {
-          "client_id": "361967937864-tmf4jb8blv450qhncj819na2rpptekpq.apps.googleusercontent.com",
+          "client_id": "1049135460346-lef8mkd02r8pl7lqdbbm1ovg2ihh00hm.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDbGuspTYPy4vxX32mbkF-h2buY5L1iE7w"
+          "current_key": "AIzaSyB312qhqnSJ9vLc8shIPQuM2Z5CQQ_ERhE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "361967937864-tmf4jb8blv450qhncj819na2rpptekpq.apps.googleusercontent.com",
+              "client_id": "1049135460346-lef8mkd02r8pl7lqdbbm1ovg2ihh00hm.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "361967937864-7p2npg38occvq4mnn6lri1u7gf7gtq8j.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.example.vkreta"
-              }
             }
           ]
         }

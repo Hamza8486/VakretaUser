@@ -92,6 +92,24 @@ class _EnterOtpState extends State<EnterOtp> {
 
                     ],
                   ),
+                  SizedBox(height: 5,),
+                  Row(
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    children: [
+                      Text('Otp: ',style:  GoogleFonts.poppins(
+                          textStyle:TextStyle(
+                              color:Colors.black,fontSize: 16,fontWeight: FontWeight.bold
+                          )
+                      ),),
+                      Text(widget.otp.toString(),style:  GoogleFonts.poppins(
+                          textStyle:TextStyle(
+                              color:Colors.black,fontWeight: FontWeight.bold,fontSize: 18
+                          )
+                      ),),
+
+
+                    ],
+                  ),
                   SizedBox(height:20),
 
                   Padding(

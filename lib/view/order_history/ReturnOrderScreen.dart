@@ -330,7 +330,7 @@ class _ReturnOrderScreenState extends State<ReturnOrderScreen> {
                                 return_reason_id: reason.toString(),
                                 opened:  "0",
                                 bank_swift_code: bankCode.text,
-                                bank_account_name: bankAccountNumber.text,
+                                bank_account_name: bankName.text,
                                 bank_account_number: bankAccountNumber.text,
                                 agree: 1.toString(),
                                 image: list, context: context);

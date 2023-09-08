@@ -55,7 +55,7 @@ class _ContactusState extends State<Contactus> {
                     textStyle: TextStyle(color: Colors.blue, fontSize: 13,)),
           ),
            Text(
-                '051 9379229',
+                '8168044155',
                 style: GoogleFonts.poppins(
                     textStyle: TextStyle(color: Colors.grey.shade900, fontSize: 13,fontWeight: FontWeight.bold)),
           ),
@@ -69,13 +69,30 @@ class _ContactusState extends State<Contactus> {
                   style: GoogleFonts.poppins(
                       textStyle: TextStyle(color: Colors.blue, fontSize: 13,)),
           ),
-           Text(
-              'Mumbai Road Near beach 6th',
-              style: GoogleFonts.poppins(
-                  textStyle: TextStyle(color: Colors.grey.shade900, fontSize: 13,fontWeight: FontWeight.bold)),
+           Expanded(
+             child: Text(
+                'Vkreta Seller Services, Uklana Mandi, Hisar, Haryana',
+                style: GoogleFonts.poppins(
+                    textStyle: TextStyle(color: Colors.grey.shade900, fontSize: 13,fontWeight: FontWeight.bold)),
           ),
+           ),
                 ],
               ),
+            SizedBox(height: 30),
+            Row(
+              children: [
+                Text(
+                  'Store : ',
+                  style: GoogleFonts.poppins(
+                      textStyle: TextStyle(color: Colors.blue, fontSize: 13,)),
+                ),
+                Text(
+                  'Vkreta Services',
+                  style: GoogleFonts.poppins(
+                      textStyle: TextStyle(color: Colors.grey.shade900, fontSize: 13,fontWeight: FontWeight.bold)),
+                ),
+              ],
+            ),
           
           ],
         ),
